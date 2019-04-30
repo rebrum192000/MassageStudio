@@ -12,4 +12,4 @@
 Ссылка для просмотра моего проекта - https://rebrum192000.github.io/MassageStudio/
 
 Ниже представляю превью моего сайта для быстрого просмотра:
-<img src="https://i.ibb.co/Vtd37v8/Certificates-rebrum192000-github-io.png" alt="Certificates-rebrum192000-github-io" border="0">
+<a href="https://ibb.co/6m2N345"><img src="https://i.ibb.co/56d2N5V/Certificates-rebrum192000-github-io.png" alt="Certificates-rebrum192000-github-io" border="0"></a>
